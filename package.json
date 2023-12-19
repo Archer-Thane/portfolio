@@ -17,6 +17,9 @@
     "react-dom": "18.2.0",
     "react-icons": "^4.8.0",
     "react-tsparticles": "^2.9.3",
+    "sonner": "^1.2.4",
+    "sqlite": "^5.1.1",
+    "sqlite3": "^5.1.6",
     "swiper": "^9.4.0",
     "tailwind-scrollbar": "^3.0.4",
     "tsparticles": "^2.9.3"
