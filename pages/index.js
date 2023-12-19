@@ -21,7 +21,7 @@ const Home = () => {
             exit="hidden"
             className="h1"
           >
-            Crafted Elegance: <br /> Insight's{" "}
+            Crafted Elegance: <br /> Insight&apos;s{" "}
             <span className="text-accent">Power</span>
           </motion.h1>
           {/* subtitle */}
@@ -32,7 +32,7 @@ const Home = () => {
             exit="hidden"
             className="max-w-sm xl:max-w-xl mx-auto xl:mx-0 mb-10 xl:mb-16 text-shadow-md"
           >
-            I'm Ali Bahrami. <br /> Leveraging ten years of full-stack
+            I&apos;m Ali Bahrami. <br /> Leveraging ten years of full-stack
             development expertise, enriched by insights from psychology and the
             beauty of art, I craft digital experiences that bring your visions
             to reality. <br /> Join me in forging a new path in web technology.
